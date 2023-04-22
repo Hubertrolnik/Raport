@@ -1,0 +1,2 @@
+# Raport
+Raport o błędach
